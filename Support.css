@@ -1,0 +1,30 @@
+.support {
+    height: 27px;
+    left: 20px;
+    position: relative;
+    top: 20px;
+    width: 69px;
+}
+
+.support .text-wrapper {
+    color: #ffffff;
+    font-family: "League Spartan-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 27px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+}
+
+.support:hover {
+    top: 67px;
+}
+
+.support:hover .text-wrapper {
+    font-family: "League Spartan-ExtraBold", Helvetica;
+    font-weight: 800;
+    text-decoration: underline;
+}

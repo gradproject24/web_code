@@ -1,0 +1,764 @@
+.COMMUNITY-screen {
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.COMMUNITY-screen .COMMUNITY {
+    background-color: #d9d9d9;
+    height: 2468px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+}
+
+.COMMUNITY-screen .menu {
+    background-image: url(../assets/background.svg);
+    background-size: 100% 100%;
+    height: 78px;
+    left: -3010px;
+    position: absolute;
+    top: -2750px;
+    width: 1440px;
+}
+
+.COMMUNITY-screen .menu-2 {
+    align-items: center;
+    display: flex;
+    gap: 277px;
+    left: 340px;
+    position: relative;
+    width: 648px;
+}
+
+.COMMUNITY-screen .menu-wrapper {
+    height: 78px;
+    position: relative;
+    width: 504px;
+}
+
+.COMMUNITY-screen .overlap-group-wrapper {
+    height: 27px;
+    position: relative;
+    top: 28px;
+    width: 741px;
+}
+
+.COMMUNITY-screen .overlap-group {
+    height: 27px;
+    position: relative;
+}
+
+.COMMUNITY-screen .line {
+    background-color: #ffffff;
+    height: 2px;
+    left: 300px;
+    position: absolute;
+    top: 24px;
+    width: 99px;
+}
+
+.COMMUNITY-screen .menu-3 {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 741px;
+}
+
+.COMMUNITY-screen .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 27px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.COMMUNITY-screen .about-2 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+}
+
+.COMMUNITY-screen .img {
+    height: 27px;
+    margin-left: -1px;
+    object-fit: cover;
+    position: relative;
+    width: 1px;
+}
+
+.COMMUNITY-screen .about-instance {
+    left: 22px !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.COMMUNITY-screen .support-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 12px;
+    left: 171px;
+    position: absolute;
+    top: 0;
+}
+
+.COMMUNITY-screen .support-instance {
+    left: 21px !important;
+    position: absolute !important;
+    top: 1px !important;
+}
+
+.COMMUNITY-screen .community-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 12px;
+    left: 280px;
+    position: absolute;
+    top: 1px;
+}
+
+.COMMUNITY-screen .community-instance {
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.COMMUNITY-screen .download-2 {
+    height: 27px;
+    left: 415px;
+    position: absolute;
+    top: 0;
+    width: 125px;
+}
+
+.COMMUNITY-screen .line-2 {
+    height: 27px;
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: 2px;
+    width: 1px;
+}
+
+.COMMUNITY-screen .download-instance {
+    left: 21px !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.COMMUNITY-screen .contact-US {
+    align-items: center;
+    display: inline-flex;
+    gap: 12px;
+    left: 540px;
+    position: absolute;
+    top: 0;
+}
+
+.COMMUNITY-screen .line-3 {
+    height: 28.67px;
+    margin-left: -1px;
+    object-fit: cover;
+    position: relative;
+    width: 1px;
+}
+
+.COMMUNITY-screen .contact-us-instance {
+    height: 28.67px !important;
+    left: unset !important;
+    top: unset !important;
+}
+
+.COMMUNITY-screen .follow {
+    align-items: center;
+    display: flex;
+    gap: 24px;
+    justify-content: flex-end;
+    left: 713px;
+    position: absolute;
+    top: 29px;
+    width: 151px;
+}
+
+.COMMUNITY-screen .instagram-instance {
+    height: 19.12px !important;
+    margin-left: -0.83px !important;
+    position: relative !important;
+    width: 19.87px !important;
+}
+
+.COMMUNITY-screen .facebook-instance {
+    height: 19.12px !important;
+    position: relative !important;
+    width: 20.53px !important;
+}
+
+.COMMUNITY-screen .twitter-instance {
+    height: 20px !important;
+    position: relative !important;
+    width: 20px !important;
+}
+
+.COMMUNITY-screen .linkdin-instance {
+    height: 19.42px !important;
+    position: relative !important;
+    width: 19.42px !important;
+}
+
+.COMMUNITY-screen .group-10 {
+    left: 913px !important;
+    position: absolute !important;
+    top: 16px !important;
+}
+
+.COMMUNITY-screen .footer {
+    background-color: transparent;
+    height: 709px;
+    left: 0;
+    position: absolute;
+    top: 1759px;
+    width: 1440px;
+}
+
+.COMMUNITY-screen .overlap {
+    height: 709px;
+    position: relative;
+    width: 1440px;
+}
+
+.COMMUNITY-screen .copyright {
+    height: 75px;
+    left: 9px;
+    position: absolute;
+    top: 631px;
+    width: 1428px;
+}
+
+.COMMUNITY-screen .line-4 {
+    height: 1px;
+    left: -3010px;
+    object-fit: cover;
+    position: absolute;
+    top: -2750px;
+    width: 1428px;
+}
+
+.COMMUNITY-screen .copyright-a-EYE-wrapper {
+    height: 55px;
+    left: 269px;
+    position: absolute;
+    top: 20px;
+    width: 889px;
+}
+
+.COMMUNITY-screen .copyright-a-EYE {
+    color: #ffffff;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: -261px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: -7px;
+    white-space: nowrap;
+}
+
+.COMMUNITY-screen .span {
+    color: #ffffff;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 40px;
+}
+
+.COMMUNITY-screen .background {
+    background-color: #3d3d3d;
+    height: 709px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.COMMUNITY-screen .content {
+    height: 519px;
+    left: 63px;
+    position: absolute;
+    top: 52px;
+    width: 804px;
+}
+
+.COMMUNITY-screen .content-2 {
+    height: 401px;
+    left: 425px;
+    position: absolute;
+    top: 56px;
+    width: 379px;
+}
+
+.COMMUNITY-screen .pages {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 74px;
+    left: -9px;
+    position: absolute;
+    top: 86px;
+    width: 86px;
+}
+
+.COMMUNITY-screen .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Rubik-Medium", Helvetica;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.COMMUNITY-screen .about-community {
+    color: #ffffff;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 39px;
+}
+
+.COMMUNITY-screen .subscribe {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 85px;
+    left: 194px;
+    position: absolute;
+    top: 86px;
+    width: 317px;
+}
+
+.COMMUNITY-screen .name-wrapper {
+    height: 59px;
+    left: 198px;
+    position: absolute;
+    top: 152px;
+    width: 317px;
+}
+
+.COMMUNITY-screen .name {
+    height: 60px;
+    left: -4px;
+    position: relative;
+    top: -16px;
+    width: 319px;
+}
+
+.COMMUNITY-screen .div-wrapper {
+    border: 1px solid;
+    border-color: #4d5682;
+    border-radius: 100px;
+    height: 60px;
+    position: relative;
+    width: 317px;
+}
+
+.COMMUNITY-screen .text-wrapper-8 {
+    color: #999999;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+    white-space: nowrap;
+}
+
+.COMMUNITY-screen .button {
+    all: unset;
+    box-sizing: border-box;
+    height: 60px;
+    left: 180px;
+    position: absolute;
+    top: 251px;
+    width: 303px;
+}
+
+.COMMUNITY-screen .follow-2 {
+    align-items: center;
+    display: flex;
+    gap: 24px;
+    justify-content: flex-end;
+    left: 183px;
+    position: absolute;
+    top: 20px;
+    width: 151px;
+}
+
+.COMMUNITY-screen .button-2 {
+    all: unset;
+    align-items: center;
+    background-color: #7f0b0cbd;
+    border-radius: 100px;
+    box-sizing: border-box;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    left: 14px;
+    padding: 19px 36px;
+    position: absolute;
+    top: 0;
+    width: 124px;
+}
+
+.COMMUNITY-screen .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Krub-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 21.6px;
+    margin-left: -12px;
+    margin-right: -12px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.COMMUNITY-screen .logo {
+    height: 519px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 172px;
+}
+
+.COMMUNITY-screen .rectangle {
+    height: 69px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 217px;
+}
+
+.COMMUNITY-screen .p {
+    color: #e7e7e7;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 24.2px;
+    position: absolute;
+    top: 129px;
+    width: 319px;
+}
+
+.COMMUNITY-screen .address-wrapper {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+    left: 0;
+    position: absolute;
+    top: 211px;
+    width: 319px;
+}
+
+.COMMUNITY-screen .address {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 30px;
+    position: relative;
+    width: 227px;
+}
+
+.COMMUNITY-screen .email {
+    height: 63px;
+    margin-right: -6px;
+    position: relative;
+    width: 233px;
+}
+
+.COMMUNITY-screen .div-2 {
+    color: #ffffff;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 77px;
+    letter-spacing: 0;
+    line-height: 18.9px;
+    position: absolute;
+    top: 11px;
+}
+
+.COMMUNITY-screen .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 18.9px;
+}
+
+.COMMUNITY-screen .icon {
+    background-color: #101b55;
+    border: 1px solid;
+    border-color: #26326f;
+    border-radius: 31.5px;
+    height: 63px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 63px;
+}
+
+.COMMUNITY-screen .vector-wrapper {
+    background-image: url(../assets/like.svg);
+    background-size: 100% 100%;
+    height: 16px;
+    left: 22px;
+    position: relative;
+    top: 22px;
+    width: 21px;
+}
+
+.COMMUNITY-screen .vector-2 {
+    height: 8px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 21px;
+}
+
+.COMMUNITY-screen .call {
+    height: 68px;
+    position: relative;
+    width: 202px;
+}
+
+.COMMUNITY-screen .vector-3 {
+    height: 18px;
+    left: 22px;
+    position: absolute;
+    top: 20px;
+    width: 19px;
+}
+
+.COMMUNITY-screen .rectangle-2 {
+    height: 69px;
+    left: 36px;
+    object-fit: cover;
+    position: absolute;
+    top: 9px;
+    width: 217px;
+}
+
+.COMMUNITY-screen .rectangle-3 {
+    height: 339px;
+    left: 81px;
+    object-fit: cover;
+    position: absolute;
+    top: 567px;
+    width: 372px;
+}
+
+.COMMUNITY-screen .rectangle-4 {
+    height: 339px;
+    left: 968px;
+    object-fit: cover;
+    position: absolute;
+    top: 567px;
+    width: 372px;
+}
+
+.COMMUNITY-screen .rectangle-5 {
+    height: 339px;
+    left: 522px;
+    object-fit: cover;
+    position: absolute;
+    top: 567px;
+    width: 372px;
+}
+
+.COMMUNITY-screen .text-wrapper-11 {
+    color: #000000;
+    font-family: "League Spartan-SemiBold", Helvetica;
+    font-size: 64px;
+    font-weight: 600;
+    left: 311px;
+    letter-spacing: 0;
+    line-height: 86.4px;
+    position: absolute;
+    top: 296px;
+    white-space: nowrap;
+    width: 856px;
+}
+
+.COMMUNITY-screen .group-2 {
+    height: 129px;
+    left: 81px;
+    position: absolute;
+    top: 916px;
+    width: 381px;
+}
+
+.COMMUNITY-screen .text-wrapper-12 {
+    color: #000000;
+    font-family: "League Spartan-Medium", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 48.6px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 375px;
+}
+
+.COMMUNITY-screen .overlap-2 {
+    height: 74px;
+    left: 4px;
+    position: absolute;
+    top: 55px;
+    width: 252px;
+}
+
+.COMMUNITY-screen .text-wrapper-13 {
+    color: #000000ab;
+    font-family: "League Spartan-Medium", Helvetica;
+    font-size: 32px;
+    font-weight: 500;
+    left: 47px;
+    letter-spacing: 0;
+    line-height: 43.2px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 205px;
+}
+
+.COMMUNITY-screen .group-3 {
+    height: 73px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 100px;
+}
+
+.COMMUNITY-screen .vector-instance {
+    height: 23px !important;
+    left: 2px !important;
+    position: absolute !important;
+    top: 46px !important;
+    width: 27px !important;
+}
+
+.COMMUNITY-screen .material-symbols {
+    height: 30px;
+    left: 34px;
+    position: absolute;
+    top: 43px;
+    width: 30px;
+}
+
+.COMMUNITY-screen .grommet-icons-view {
+    height: 30px;
+    left: 70px;
+    position: absolute;
+    top: 42px;
+    width: 30px;
+}
+
+.COMMUNITY-screen .icon-profile-circled {
+    height: 32px;
+    left: -1px;
+    position: absolute;
+    top: -1px;
+    width: 32px;
+}
+
+.COMMUNITY-screen .text-wrapper-14 {
+    color: #00000096;
+    font-family: "League Spartan-Medium", Helvetica;
+    font-size: 15px;
+    font-weight: 500;
+    left: 109px;
+    letter-spacing: 0;
+    line-height: 20.3px;
+    position: absolute;
+    top: 105px;
+    white-space: nowrap;
+    width: 25px;
+}
+
+.COMMUNITY-screen .group-4 {
+    height: 129px;
+    left: 522px;
+    position: absolute;
+    top: 916px;
+    width: 827px;
+}
+
+.COMMUNITY-screen .icon-instance-node {
+    height: 23px !important;
+    left: 4px !important;
+    position: absolute !important;
+    top: 46px !important;
+    width: 27px !important;
+}
+
+.COMMUNITY-screen .group-5 {
+    height: 129px;
+    left: 446px;
+    position: absolute;
+    top: 0;
+    width: 381px;
+}
+
+.COMMUNITY-screen .overlap-group-2 {
+    height: 74px;
+    left: 4px;
+    position: absolute;
+    top: 55px;
+    width: 267px;
+}
+
+.COMMUNITY-screen .text-wrapper-15 {
+    color: #000000ab;
+    font-family: "League Spartan-Medium", Helvetica;
+    font-size: 32px;
+    font-weight: 500;
+    left: 47px;
+    letter-spacing: 0;
+    line-height: 43.2px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 220px;
+}

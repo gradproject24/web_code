@@ -1,0 +1,408 @@
+.SIGNUP {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.SIGNUP .overlap-wrapper {
+    background-color: #ffffff;
+    height: 1050px;
+    width: 1440px;
+}
+
+.SIGNUP .overlap {
+    height: 1050px;
+    position: relative;
+}
+
+.SIGNUP .overlap-group-wrapper {
+    height: 1050px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.SIGNUP .banner {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.SIGNUP .backgroound {
+    height: 1050px;
+    position: relative;
+    width: 1440px;
+}
+
+.SIGNUP .button-instance {
+    background-image: url(../assets/background-2.png) !important;
+    border-radius: 100px !important;
+    left: 129px !important;
+    position: absolute !important;
+    top: 525px !important;
+}
+
+.SIGNUP .menu {
+    background-image: url(../assets/background.svg);
+    background-size: 100% 100%;
+    height: 78px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.SIGNUP .menu-2 {
+    align-items: center;
+    display: flex;
+    gap: 277px;
+    left: 340px;
+    position: relative;
+    width: 648px;
+}
+
+.SIGNUP .menu-wrapper {
+    height: 78px;
+    position: relative;
+    width: 504px;
+}
+
+.SIGNUP .div-wrapper {
+    height: 27px;
+    position: relative;
+    top: 28px;
+    width: 741px;
+}
+
+.SIGNUP .overlap-group {
+    height: 27px;
+    position: relative;
+}
+
+.SIGNUP .line {
+    background-color: #ffffff;
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 24px;
+    width: 48px;
+}
+
+.SIGNUP .menu-3 {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 741px;
+}
+
+.SIGNUP .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 27px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.SIGNUP .about-2 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+}
+
+.SIGNUP .img {
+    height: 27px;
+    margin-left: -1px;
+    object-fit: cover;
+    position: relative;
+    width: 1px;
+}
+
+.SIGNUP .about-instance {
+    left: 22px !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.SIGNUP .support-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 12px;
+    left: 171px;
+    position: absolute;
+    top: 0;
+}
+
+.SIGNUP .support-instance {
+    left: 21px !important;
+    position: absolute !important;
+    top: 1px !important;
+}
+
+.SIGNUP .community-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 12px;
+    left: 280px;
+    position: absolute;
+    top: 1px;
+}
+
+.SIGNUP .community-instance {
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.SIGNUP .download-2 {
+    height: 27px;
+    left: 415px;
+    position: absolute;
+    top: 0;
+    width: 125px;
+}
+
+.SIGNUP .line-2 {
+    height: 27px;
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: 2px;
+    width: 1px;
+}
+
+.SIGNUP .download-instance {
+    left: 21px !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.SIGNUP .contact-US {
+    align-items: center;
+    display: inline-flex;
+    gap: 12px;
+    left: 540px;
+    position: absolute;
+    top: 0;
+}
+
+.SIGNUP .line-3 {
+    height: 28.67px;
+    margin-left: -1px;
+    object-fit: cover;
+    position: relative;
+    width: 1px;
+}
+
+.SIGNUP .contact-us-instance {
+    height: 28.67px !important;
+    left: unset !important;
+    top: unset !important;
+}
+
+.SIGNUP .follow {
+    align-items: center;
+    display: flex;
+    gap: 24px;
+    justify-content: flex-end;
+    left: 713px;
+    position: absolute;
+    top: 29px;
+    width: 151px;
+}
+
+.SIGNUP .instagram-instance {
+    height: 19.12px !important;
+    margin-left: -0.83px !important;
+    position: relative !important;
+    width: 19.87px !important;
+}
+
+.SIGNUP .facebook-instance {
+    height: 19.12px !important;
+    position: relative !important;
+    width: 20.53px !important;
+}
+
+.SIGNUP .twitter-instance {
+    height: 20px !important;
+    position: relative !important;
+    width: 20px !important;
+}
+
+.SIGNUP .linkdin-instance {
+    height: 19.42px !important;
+    position: relative !important;
+    width: 19.42px !important;
+}
+
+.SIGNUP .group-10 {
+    left: 913px !important;
+    position: absolute !important;
+    top: 16px !important;
+}
+
+.SIGNUP .UNLOCK-THE-DOOR-TO-BOUNDLESS-CREATIVITY {
+    left: 123px !important;
+    top: 175px !important;
+}
+
+.SIGNUP .rectangle {
+    height: 69px;
+    left: 90px;
+    object-fit: cover;
+    position: absolute;
+    top: 7px;
+    width: 217px;
+}
+
+.SIGNUP .BACKGROUND {
+    background-color: #09124240;
+    height: 1050px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.SIGNUP .overlap-2 {
+    background-color: #c2ccd4f2;
+    border-radius: 105px;
+    height: 823px;
+    left: 90px;
+    position: relative;
+    top: 123px;
+    width: 1247px;
+}
+
+.SIGNUP .rectangle-2 {
+    height: 823px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 607px;
+}
+
+.SIGNUP .vector-instance {
+    height: 21px !important;
+    left: 1170px !important;
+    position: absolute !important;
+    top: 31px !important;
+    width: 23px !important;
+}
+
+.SIGNUP .group-2 {
+    height: 68px;
+    left: 732px;
+    position: absolute;
+    top: 507px;
+    width: 461px;
+}
+
+.SIGNUP .overlap-3 {
+    background-color: #ffffff;
+    border-radius: 100px;
+    height: 68px;
+    position: relative;
+    width: 459px;
+}
+
+.SIGNUP .text-wrapper-10 {
+    color: #0000006b;
+    font-family: "Asap-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: 32.4px;
+    position: absolute;
+    top: 17px;
+    white-space: nowrap;
+    width: 223px;
+}
+
+.SIGNUP .group-3 {
+    height: 68px;
+    left: 732px;
+    position: absolute;
+    top: 406px;
+    width: 461px;
+}
+
+.SIGNUP .text-wrapper-11 {
+    color: #0000006b;
+    font-family: "Asap-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: 32.4px;
+    position: absolute;
+    top: 17px;
+    white-space: nowrap;
+    width: 121px;
+}
+
+.SIGNUP .do-you-have-an-account-login {
+    left: 732px !important;
+    position: absolute !important;
+    top: 291px !important;
+}
+
+.SIGNUP .text-wrapper-12 {
+    color: #7f0b0cbd;
+    font-family: "Asap-Bold", Helvetica;
+    font-size: 55px;
+    font-weight: 700;
+    left: 732px;
+    letter-spacing: 0;
+    line-height: 74.3px;
+    position: absolute;
+    top: 197px;
+    width: 578px;
+}
+
+.SIGNUP .group-8 {
+    background-image: url(../assets/rectangle-89-2.svg) !important;
+    left: 842px !important;
+    position: absolute !important;
+    top: 709px !important;
+}
+
+.SIGNUP .group-4 {
+    height: 68px;
+    left: 731px;
+    position: absolute;
+    top: 608px;
+    width: 461px;
+}
+
+.SIGNUP .text-wrapper-13 {
+    color: #0000006b;
+    font-family: "Asap-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: 32.4px;
+    position: absolute;
+    top: 17px;
+    white-space: nowrap;
+    width: 232px;
+}

@@ -1,0 +1,28 @@
+.JoinButton {
+    background-color: #605d58cf;
+    border-radius: 100px;
+    height: 45px;
+    left: 20px;
+    position: relative;
+    top: 20px;
+    width: 151px;
+}
+
+.JoinButton .text-wrapper {
+    color: #ffffff;
+    font-family: "League Spartan-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 37px;
+    letter-spacing: 0;
+    line-height: 27px;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+    width: 77px;
+}
+
+.JoinButton:hover {
+    background-color: #7f0b0c;
+    top: 85px;
+}

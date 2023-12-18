@@ -1,0 +1,38 @@
+.DownloadButton {
+    all: unset;
+    background-image: url(./background.png);
+    background-size: 100% 100%;
+    box-sizing: border-box;
+    height: 94px;
+    left: 20px;
+    position: relative;
+    top: 20px;
+    width: 260px;
+}
+
+.DownloadButton.text-wrapper {
+    color: #f8f9fd;
+    font-family: "League Spartan-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    height: 34px;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: 32.4px;
+    position: absolute;
+    text-align: center;
+    top: 29px;
+    white-space: nowrap;
+    width: 212px;
+}
+
+.DownloadButton:hover {
+    background-image: url(./image.png);
+    top: 134px;
+}
+
+.DownloadButton:hover .text-wrapper {
+    font-family: "League Spartan-ExtraBold", Helvetica;
+    font-weight: 800;
+    text-decoration: underline;
+}

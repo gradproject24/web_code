@@ -1,0 +1,687 @@
+.DOWNLOAD-screen {
+    background-color: #d9d9d9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.DOWNLOAD-screen .DOWNLOAD {
+    background-color: #d9d9d9;
+    height: 2468px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+}
+
+.DOWNLOAD-screen .overlap {
+    height: 1673px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 1440px;
+}
+
+.DOWNLOAD-screen .rectangle {
+    height: 837px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.DOWNLOAD-screen .img {
+    height: 837px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 836px;
+    width: 1440px;
+}
+
+.DOWNLOAD-screen .overlap-wrapper {
+    height: 118px;
+    left: 67px;
+    position: absolute;
+    top: 381px;
+    width: 411px;
+}
+
+.DOWNLOAD-screen .overlap-group {
+    background-color: #000000;
+    border-radius: 100px;
+    height: 118px;
+    position: relative;
+    width: 409px;
+}
+
+.DOWNLOAD-screen .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "League Spartan-SemiBold", Helvetica;
+    font-size: 32px;
+    font-weight: 600;
+    left: 92px;
+    letter-spacing: 0;
+    line-height: 43.2px;
+    position: absolute;
+    top: 42px;
+    white-space: nowrap;
+    width: 313px;
+}
+
+.DOWNLOAD-screen .rectangle-2 {
+    background-color: #000000;
+    border-radius: 100px;
+    height: 118px;
+    left: 73px;
+    position: absolute;
+    top: 508px;
+    width: 403px;
+}
+
+.DOWNLOAD-screen .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "League Spartan-SemiBold", Helvetica;
+    font-size: 32px;
+    font-weight: 600;
+    left: 159px;
+    letter-spacing: 0;
+    line-height: 43.2px;
+    position: absolute;
+    top: 548px;
+    white-space: nowrap;
+    width: 302px;
+}
+
+.DOWNLOAD-screen .ic-round-apple {
+    height: 58px;
+    left: 107px;
+    position: absolute;
+    top: 408px;
+    width: 52px;
+}
+
+.DOWNLOAD-screen .rectangle-3 {
+    background-color: #000000;
+    border-radius: 100px;
+    height: 118px;
+    left: 940px;
+    position: absolute;
+    top: 1196px;
+    width: 403px;
+}
+
+.DOWNLOAD-screen .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "League Spartan-SemiBold", Helvetica;
+    font-size: 32px;
+    font-weight: 600;
+    left: 1014px;
+    letter-spacing: 0;
+    line-height: 43.2px;
+    position: absolute;
+    top: 1236px;
+    white-space: nowrap;
+    width: 271px;
+}
+
+.DOWNLOAD-screen .vector {
+    height: 62px;
+    left: 956px;
+    position: absolute;
+    top: 1224px;
+    width: 50px;
+}
+
+.DOWNLOAD-screen .icon-google-play {
+    height: 45px;
+    left: 107px;
+    position: absolute;
+    top: 545px;
+    width: 43px;
+}
+
+.DOWNLOAD-screen .rectangle-4 {
+    height: 69px;
+    left: 36px;
+    object-fit: cover;
+    position: absolute;
+    top: 8px;
+    width: 217px;
+}
+
+.DOWNLOAD-screen .menu {
+    background-image: url(../assets/background.svg);
+    background-size: 100% 100%;
+    height: 78px;
+    left: -1530px;
+    position: absolute;
+    top: -2750px;
+    width: 1440px;
+}
+
+.DOWNLOAD-screen .menu-2 {
+    align-items: center;
+    display: flex;
+    gap: 277px;
+    left: 340px;
+    position: relative;
+    width: 648px;
+}
+
+.DOWNLOAD-screen .menu-wrapper {
+    height: 78px;
+    position: relative;
+    width: 504px;
+}
+
+.DOWNLOAD-screen .div-wrapper {
+    height: 27px;
+    position: relative;
+    top: 28px;
+    width: 741px;
+}
+
+.DOWNLOAD-screen .menu-3 {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    position: relative;
+    width: 741px;
+}
+
+.DOWNLOAD-screen .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "League Spartan-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 27px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.DOWNLOAD-screen .about-2 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+}
+
+.DOWNLOAD-screen .line {
+    height: 27px;
+    margin-left: -1px;
+    object-fit: cover;
+    position: relative;
+    width: 1px;
+}
+
+.DOWNLOAD-screen .about-instance {
+    left: 22px !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.DOWNLOAD-screen .support-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 12px;
+    left: 171px;
+    position: absolute;
+    top: 0;
+}
+
+.DOWNLOAD-screen .support-instance {
+    left: 21px !important;
+    position: absolute !important;
+    top: 1px !important;
+}
+
+.DOWNLOAD-screen .community-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 12px;
+    left: 280px;
+    position: absolute;
+    top: 1px;
+}
+
+.DOWNLOAD-screen .community-instance {
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.DOWNLOAD-screen .download-2 {
+    height: 2px;
+    left: 415px;
+    position: absolute;
+    top: 0;
+    width: 125px;
+}
+
+.DOWNLOAD-screen .line-2 {
+    height: 27px;
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: 2px;
+    width: 1px;
+}
+
+.DOWNLOAD-screen .download-instance {
+    left: 21px !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.DOWNLOAD-screen .line-3 {
+    background-color: #ffffff;
+    height: 2px;
+    left: 436px;
+    position: absolute;
+    top: 24px;
+    width: 84px;
+}
+
+.DOWNLOAD-screen .contact-US {
+    align-items: center;
+    display: inline-flex;
+    gap: 12px;
+    left: 540px;
+    position: absolute;
+    top: 0;
+}
+
+.DOWNLOAD-screen .line-4 {
+    height: 28.67px;
+    margin-left: -1px;
+    object-fit: cover;
+    position: relative;
+    width: 1px;
+}
+
+.DOWNLOAD-screen .contact-us-instance {
+    height: 28.67px !important;
+    left: unset !important;
+    top: unset !important;
+}
+
+.DOWNLOAD-screen .follow {
+    align-items: center;
+    display: flex;
+    gap: 24px;
+    justify-content: flex-end;
+    left: 713px;
+    position: absolute;
+    top: 29px;
+    width: 151px;
+}
+
+.DOWNLOAD-screen .instagram-instance {
+    height: 19.12px !important;
+    margin-left: -0.83px !important;
+    position: relative !important;
+    width: 19.87px !important;
+}
+
+.DOWNLOAD-screen .facebook-instance {
+    height: 19.12px !important;
+    position: relative !important;
+    width: 20.53px !important;
+}
+
+.DOWNLOAD-screen .twitter-instance {
+    height: 20px !important;
+    position: relative !important;
+    width: 20px !important;
+}
+
+.DOWNLOAD-screen .linkdin-instance {
+    height: 19.42px !important;
+    position: relative !important;
+    width: 19.42px !important;
+}
+
+.DOWNLOAD-screen .group-10 {
+    left: 913px !important;
+    position: absolute !important;
+    top: 16px !important;
+}
+
+.DOWNLOAD-screen .footer {
+    background-color: transparent;
+    background-image: url(../assets/background.png);
+    background-size: 100% 100%;
+    height: 709px;
+    left: 0;
+    position: absolute;
+    top: 1759px;
+    width: 1440px;
+}
+
+.DOWNLOAD-screen .copyright {
+    height: 75px;
+    left: 9px;
+    position: absolute;
+    top: 630px;
+    width: 1428px;
+}
+
+.DOWNLOAD-screen .line-5 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: 1428px;
+}
+
+.DOWNLOAD-screen .copyright-a-EYE-wrapper {
+    height: 56px;
+    left: 269px;
+    position: absolute;
+    top: 20px;
+    width: 889px;
+}
+
+.DOWNLOAD-screen .copyright-a-EYE {
+    color: #ffffff;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: -261px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: -7px;
+    white-space: nowrap;
+}
+
+.DOWNLOAD-screen .span {
+    color: #ffffff;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 40px;
+}
+
+.DOWNLOAD-screen .content {
+    height: 525px;
+    left: 63px;
+    position: absolute;
+    top: 45px;
+    width: 804px;
+}
+
+.DOWNLOAD-screen .content-2 {
+    height: 404px;
+    left: 425px;
+    position: absolute;
+    top: 57px;
+    width: 379px;
+}
+
+.DOWNLOAD-screen .pages {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 74px;
+    left: -9px;
+    position: absolute;
+    top: 86px;
+    width: 86px;
+}
+
+.DOWNLOAD-screen .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "Rubik-Medium", Helvetica;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.DOWNLOAD-screen .about-community {
+    color: #ffffff;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 39px;
+}
+
+.DOWNLOAD-screen .subscribe {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 85px;
+    left: 194px;
+    position: absolute;
+    top: 86px;
+    width: 317px;
+}
+
+.DOWNLOAD-screen .name-wrapper {
+    height: 59px;
+    left: 198px;
+    position: absolute;
+    top: 152px;
+    width: 317px;
+}
+
+.DOWNLOAD-screen .name {
+    height: 60px;
+    left: -4px;
+    position: relative;
+    top: -16px;
+    width: 319px;
+}
+
+.DOWNLOAD-screen .overlap-group-2 {
+    border: 1px solid;
+    border-color: #4d5682;
+    border-radius: 100px;
+    height: 60px;
+    position: relative;
+    width: 317px;
+}
+
+.DOWNLOAD-screen .text-wrapper-11 {
+    color: #999999;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+    white-space: nowrap;
+}
+
+.DOWNLOAD-screen .button {
+    all: unset;
+    box-sizing: border-box;
+    height: 60px;
+    left: 180px;
+    position: absolute;
+    top: 251px;
+    width: 303px;
+}
+
+.DOWNLOAD-screen .follow-2 {
+    align-items: center;
+    display: flex;
+    gap: 24px;
+    justify-content: flex-end;
+    left: 183px;
+    position: absolute;
+    top: 20px;
+    width: 151px;
+}
+
+.DOWNLOAD-screen .button-2 {
+    all: unset;
+    align-items: center;
+    background-color: #7f0b0cbd;
+    border-radius: 100px;
+    box-sizing: border-box;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    left: 14px;
+    padding: 19px 36px;
+    position: absolute;
+    top: 0;
+    width: 124px;
+}
+
+.DOWNLOAD-screen .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "Krub-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 21.6px;
+    margin-left: -12px;
+    margin-right: -12px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.DOWNLOAD-screen .logo {
+    height: 525px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 172px;
+}
+
+.DOWNLOAD-screen .rectangle-5 {
+    height: 69px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 217px;
+}
+
+.DOWNLOAD-screen .p {
+    color: #e7e7e7;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 24.2px;
+    position: absolute;
+    top: 129px;
+    width: 319px;
+}
+
+.DOWNLOAD-screen .address-wrapper {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+    left: 0;
+    position: absolute;
+    top: 211px;
+    width: 319px;
+}
+
+.DOWNLOAD-screen .address {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 30px;
+    position: relative;
+    width: 227px;
+}
+
+.DOWNLOAD-screen .email {
+    height: 63px;
+    margin-right: -6px;
+    position: relative;
+    width: 233px;
+}
+
+.DOWNLOAD-screen .div-2 {
+    color: #ffffff;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 77px;
+    letter-spacing: 0;
+    line-height: 18.9px;
+    position: absolute;
+    top: 11px;
+}
+
+.DOWNLOAD-screen .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "Krub-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 18.9px;
+}
+
+.DOWNLOAD-screen .icon {
+    background-color: #101b55;
+    border: 1px solid;
+    border-color: #26326f;
+    border-radius: 31.5px;
+    height: 63px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 63px;
+}
+
+.DOWNLOAD-screen .vector-wrapper {
+    background-image: url(../assets/call.svg);
+    background-size: 100% 100%;
+    height: 16px;
+    left: 22px;
+    position: relative;
+    top: 22px;
+    width: 21px;
+}
+
+.DOWNLOAD-screen .vector-2 {
+    height: 8px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 21px;
+}
+
+.DOWNLOAD-screen .call {
+    height: 68px;
+    position: relative;
+    width: 202px;
+}
+
+.DOWNLOAD-screen .vector-3 {
+    height: 18px;
+    left: 22px;
+    position: absolute;
+    top: 20px;
+    width: 19px;
+}

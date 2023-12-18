@@ -1,0 +1,28 @@
+.UNLOCK-THE-DOOR-TO {
+    height: 328px;
+    width: 1067px;
+}
+
+.UNLOCK-THE-DOOR-TO .overlap-group {
+    height: 647px;
+    left: -126px;
+    position: relative;
+    top: -282px;
+    width: 1217px;
+}
+
+.UNLOCK-THE-DOOR-TO .rectangle {
+    height: 328px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1217px;
+}
+
+.UNLOCK-THE-DOOR-TO .img {
+    height: 328px;
+    left: 42px;
+    position: absolute;
+    top: 319px;
+    width: 1067px;
+}
